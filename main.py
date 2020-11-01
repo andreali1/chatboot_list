@@ -14,3 +14,5 @@ while True:
     palabra = input("empieza la conversacion ")
     respuestas = chatbot.get_response(palabra)
     print( "virtual --> {}".format(respuestas))
+
+print("hola")
